@@ -2,6 +2,7 @@
 
 Library for using a 4 digit seven segment display with TM1636 or TM1637 driver IC. Extensive library for controlling a 4 digit seven segment display. This library inherent the Print class and uses the LCDAPI 1.0. For example you can use all normal Print methods like: print() and println(). From the LCDAPI among others begin(), clear(), home(), setCursor() and setBacklight() are implementend. On top of these regular functionality a segerate fun class which adds more features can be used. For example a bombtimer(), nightrider() and bouncingBall() method can be used when using the fun class. Original author: Bram Harmsen <bramharmsen@gmail.com>. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.1.0. Upstream: <https://github.com/bremme/arduino-tm1637>.
 
+**Source last updated:** 2020-07-04  
 **Language:** C++ / Arduino  
 **Target:** Arduino (avr)  
 **Output:** Arduino library
