@@ -25,6 +25,10 @@ Library for using a 4 digit seven segment display with TM1636 or TM1637 driver I
 
 Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/SevenSegmentTM1637`). Open any `examples/*.ino` from the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Bram Harmsen <bramharmsen@gmail.com>
