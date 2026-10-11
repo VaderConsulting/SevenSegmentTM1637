@@ -6,4 +6,4 @@ This tree is a working copy of **SevenSegmentTM1637** by **Bram Harmsen <bramhar
 - Upstream: https://github.com/bremme/arduino-tm1637
 - Version in this copy: 1.1.0
 - License hint: original upstream license terms in this tree (where recorded)
-- VaderConsulting / Dave Robinson did not author the third-party library code.
+- Vader Consulting / Dave Robinson did not author the third-party library code.
